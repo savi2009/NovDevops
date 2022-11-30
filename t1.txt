@@ -1,1 +1,5 @@
+HEAD
 Welcommw to the new file
+=======
+git file
+e5dfed73ef20e4cfbcac3389f5fdc4a144cc7b84
